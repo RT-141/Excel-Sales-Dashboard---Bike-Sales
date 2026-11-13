@@ -5,13 +5,13 @@ This is an Excel sales dashboard project that focuses on bike sales in Europe an
 
 The primary objective is to support strategic business decisions and data-driven decision-making by:
 
-**1. Analyzing Sales Trends:** Identifying high-performing regions and demographics including car owners, homeowners, gender, education and occupation 
+1. Analyzing Sales Trends: Identifying high-performing regions and demographics including car owners, homeowners, gender, education and occupation 
 
-**2. Customer Segmentation and Profiling:** Looking at key demographics, segmenting customers by age, gender, and region to understand their behaviors
+2. Customer Segmentation and Profiling: Looking at key demographics, segmenting customers by age, gender, and region to understand their behaviors
 
-**3. Sales Distributions:** Examining the data and looking at trends and patterns in the total sales volumes by region, income, and occupation
+3. Sales Distributions: Examining the data and looking at trends and patterns in the total sales volumes by region, income, and occupation
 
-**4. Data-Driven Insights:** Proposing workable and actionable recommendations to optimize efficiency, increase sales, and enhance overall performance
+4. Data-Driven Insights: Proposing workable and actionable recommendations to optimize efficiency, increase sales, and enhance overall performance
 
 
 **2. Datasets Summary**
