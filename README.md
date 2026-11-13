@@ -54,6 +54,3 @@ and Purchased Bike
 Data: Contains raw and processed CSV files
 
 Dashboard: Included in the Excel (.xlsx) file
-
-
-Dashboard/: The Excel (.xlsx) f
