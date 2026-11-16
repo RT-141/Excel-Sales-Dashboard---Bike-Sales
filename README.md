@@ -1,5 +1,5 @@
 # Excel-Sales-Dashboard---Bike-Sales
-This is an Excel sales dashboard project that focuses on bike sales in Europe and addresses multiple factors that affect sales trends, including customer demographics, behavioral patterns, and regional sales distributions. 
+This is an Excel sales dashboard project that focuses on international bike sales and addresses multiple factors that affect sales trends, including customer demographics, behavioral patterns, and regional sales distributions. 
 
 **1. Project Overview**
 
